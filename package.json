@@ -1,0 +1,25 @@
+{
+  "name": "dudurudh-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "directus start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudurudh/dudurudh-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudurudh/dudurudh-blog/issues"
+  },
+  "homepage": "https://github.com/dudurudh/dudurudh-blog#readme",
+  "dependencies": {
+    "directus": "^9.0.0-rc.24",
+    "pg": "^8.5.1"
+  }
+}
